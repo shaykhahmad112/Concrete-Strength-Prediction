@@ -1,4 +1,4 @@
-# Machine Learning Project Report - Axel Sean Cahyono Putra
+# Machine Learning Project Report
 ![image of concrete compressive strength](img/Compressive-Strength-Of_Concrete.jpg)
 # Concrete Compressive Strength
 ## Project Domain
